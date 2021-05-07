@@ -1,4 +1,4 @@
-/*
+package cc.math.hard;/*
 Smallest Positive Integer that can not be represented as Sum
 
 Given an array of size N, find the smallest positive integer value

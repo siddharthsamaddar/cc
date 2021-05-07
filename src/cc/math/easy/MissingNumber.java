@@ -1,3 +1,5 @@
+package cc.math.easy;
+
 /*
 Missing number in array
 Given an array of size N-1 such that it only contains distinct integers in the range of 1 to N. Find the missing element.
@@ -16,7 +18,7 @@ A[] = {1,2,3,4,5,6,7,8,10}
 Output: 9
 
 Your Task :
-You don't need to read input or print anything. Complete the function MissingNumber() that takes array and N as input  parameters and returns the value of the missing number.
+Complete the function cc.math.easy.MissingNumber() that takes array and N as input  parameters and returns the value of the missing number.
 
 
 Expected Time Complexity: O(N)

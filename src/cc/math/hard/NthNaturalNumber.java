@@ -1,3 +1,5 @@
+package cc.math.hard;
+
 /*
 Nth Natural Number
 

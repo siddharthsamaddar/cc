@@ -1,3 +1,5 @@
+package cc.arrays.easy;
+
 import java.util.ArrayList;
 import java.util.LinkedList;
 

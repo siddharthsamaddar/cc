@@ -1,3 +1,5 @@
+package cc.math.medium;
+
 import java.util.HashMap;
 
 /*
@@ -42,7 +44,7 @@ public class SimpleFraction {
         n = Math.abs(n);
         d = Math.abs(d);
         long quo = n / d;
-        long rem = n % d * 10; // calculating remainder keeping the last digit for next division
+        long rem = n % d * 10L; // calculating remainder keeping the last digit for next division
 
         result.append(quo);
         if (rem == 0)
